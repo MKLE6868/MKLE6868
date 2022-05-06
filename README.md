@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKLE6868
-- 👀 I’m interested in software and web development and data science
-- 🌱 I’m currently learning JavaScript, Python, HTML5, HTML, CSS, SQL, Bootstrap, React, Angular
+- 👀 I’m interested in software development and data science
+- 🌱 Python, JavaScript, HTML5, HTML, CSS, SQL, Tensorflow, Scipy, Numpy, Bootstrap, React, Django, FLask, Web scarping
 - 💞️ I’m looking to collaborate on projects and teams
 - 📫 I can be reached by emaul at minhkhoaleba.le@mail.utoronto.ca
 
